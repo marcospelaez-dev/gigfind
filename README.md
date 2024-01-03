@@ -3,4 +3,4 @@
 ## Primeira aplicação React 
 ## Formação React DIO
 
-Aluno: Marcos Pelaez.
+Aluno: Marcos Pelaez
